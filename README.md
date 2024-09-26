@@ -10,11 +10,14 @@
 
 ### 1. Клонирование репозитория
 git clone https://github.com/enpure/news_parser.git
+
 cd news_parser
 
 ### 2. Установка виртуальной среды и зависимостей
 python -m venv venv
+
 Для Windows: venv\Scripts\activate
+
 pip install -r requirements.txt
 
 ### 3. Настройка базы данных
