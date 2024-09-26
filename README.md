@@ -14,7 +14,7 @@ cd news_parser
 
 ### 2. Установка виртуальной среды и зависимостей
 python -m venv venv
-source venv/bin/activate  # Для Windows: venv\Scripts\activate
+Для Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ### 3. Настройка базы данных
