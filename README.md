@@ -26,16 +26,16 @@ pip install -r requirements.txt
 ### 4. Запуск парсера
 python main.py
 
-### Используемые технологии
+## Используемые технологии
 Python
 BeautifulSoup
 Requests
 MySQL
 
-### Задачи
+## Задачи
 Парсинг новостей с сайта Hacker News
 Сохранение данных в MySQL
 Возможность расширения для парсинга других сайтов
 
-### Автор
+## Автор
 enpure
