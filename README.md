@@ -9,22 +9,18 @@
 ## Установка и запуск
 
 ### 1. Клонирование репозитория
-```bash
 git clone https://github.com/enpure/news_parser.git
 cd news_parser
 
 ### 2. Установка виртуальной среды и зависимостей
-```bash
 python -m venv venv
 source venv/bin/activate  # Для Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ### 3. Настройка базы данных
-```bash
 Создайте базу данных MySQL и таблицу для хранения новостей (см. файл db.py для структуры).
 
 ### 4. Запуск парсера
-```bash
 python main.py
 
 ### Используемые технологии
