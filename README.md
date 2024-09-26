@@ -28,8 +28,11 @@ python main.py
 
 ## Используемые технологии
 Python
+
 BeautifulSoup
+
 Requests
+
 MySQL
 
 ## Задачи
